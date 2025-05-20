@@ -16,7 +16,7 @@ function Header() {
         {/* Right Side - Illustration */}
         <div className="lg:w-1/2">
           <img
-            src="/src/assets/client-cover.png" // Replace with the actual path to your image
+            src="/vite-project/public/assets/client-cover.png" // Replace with the actual path to your image
             alt="Office Illustration"
             className="w-full rounded-lg shadow-lg"
           />
